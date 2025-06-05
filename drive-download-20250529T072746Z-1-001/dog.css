@@ -1,5 +1,5 @@
-body{
-    
+body {
+    color: #ebd59b;
 }
 
 p{
@@ -21,4 +21,13 @@ p.card-text{
 
 #alap{
     background-color: white;
+}
+
+h1, h2 {
+    color: #0a0550;
+}
+
+a {
+    color: #8b0000;
+    text-decoration: none;
 }
